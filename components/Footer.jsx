@@ -166,6 +166,7 @@ const Footer = () => {
           <div className='flex justify-end  mx-5'>
             <div >
               <AiOutlineInstagram className="text-[#54595F]" />
+              {/* data */}
             </div>
           </div>
         </div>
